@@ -1,2 +1,2 @@
 # trhan.github.io
-个人站点
+个人主页
